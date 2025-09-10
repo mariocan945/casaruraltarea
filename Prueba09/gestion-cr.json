@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "cliente": {
+    "id": 1,
+    "nombre": "Mario",
+    "email": "Mario@example.com"
+  },
+  "habitacion": {
+    "numero": 101,
+    "tipo": "doble"
+  },
+  "fecha": "2025-09-10"
+}
